@@ -1,0 +1,396 @@
+.icon{
+      background-color: rgb(98, 98, 102);
+      height: 50px;
+      padding: 5px;
+}
+a{
+    padding: 10px  ;
+    color: white;
+   
+}
+.p1{
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 400px;
+}
+
+
+
+.divheading{
+    background-color: lavenderblush;
+    height: 150px;
+}
+.h1{
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+.h2{
+    color: red;
+    font-size: 25px;
+    text-align: center;
+}
+
+
+
+
+
+
+.divheader{
+    background-color: royalblue;
+    height: 50px;
+}
+ul{
+    list-style: none;
+    float: left;
+      
+}
+li{
+    display: inline-block;
+    cursor: pointers;
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding: 1px 20px;
+    margin: 1px ;
+}
+a:hover{
+    color:white;
+    background-color: rgb(24, 224, 224);
+}
+.a1{
+    color: white;
+    font-weight: bold;
+}
+.home{
+    color: white;
+    font-weight: bold;
+    background-color:darkmagenta;
+border-radius: 20px;
+font-size: 20px;
+}
+
+
+
+
+.img3{
+    height: 400px;
+    width: 1300px;
+}
+.divimg5{
+    background-color: whitesmoke;
+    height: 520px;
+}
+.img5{
+    height: 500px;
+    width: 900px;
+}
+.img6{
+    height: 500px;
+    width: 300px;
+}
+
+
+
+.divcollection{
+    background-color: whitesmoke;
+    height: 1700px;
+    border: 2px solid silver;
+}
+.hpyari{
+       padding: 25px 350px;
+       font-size: 30px;
+}
+.ppyari{
+    position: absolute;
+    top: 1322px;
+    left: 540px;
+    font-size: 30px;
+}
+.ppyari1{
+    font-weight: bold;
+    position: absolute;
+    top: 1325px;
+    left: 80px;
+}
+.ppyari2{
+    font-weight: bold;
+    position: absolute;
+    top: 1330px;
+    left: 970px;
+}
+.img7{
+    height: 580px;
+    width: 550px;
+    position: absolute;
+    top: 1400px;
+    left: 100px;
+}
+.img8{
+    height: 580px;
+    width: 550px;
+    position: absolute;
+    top: 1400px;
+    left: 670px;
+}
+.img9{
+    height: 580px;
+    width: 550px;
+    position: absolute;
+    top: 2110px;
+    left: 100px;
+}
+.img10{
+    height: 580px;
+    width: 550px;
+    position: absolute;
+    top: 2110px;
+    left: 670px;
+    border: 1px solid white;
+}
+.hboy{
+    color: darkolivegreen;
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    top: 2000px;
+    left: 250px;
+}
+.hgirl{
+    color: darkolivegreen;
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    top: 2000px;
+    left: 850px;
+}
+.hminiboy{
+    color: darkolivegreen;
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    top: 2700px;
+    left: 250px;
+}
+.hminigirl{
+    color: darkolivegreen;
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    top: 2700px;
+    left: 850px;
+}
+.img11{
+    height: 120px;
+    width: 1200px;
+    position: absolute;
+    top: 2800px;
+    left: 80px;
+}
+
+
+
+
+
+.divlove{
+    background-color: white;
+    height: 800px;
+    border: 2px solid lightgrey;
+}
+.hlove{
+    color: rgb(155, 82, 82);
+    padding: 20px 500px;
+    font-weight: bold;
+    font-size: 40px;
+    }
+    .plove1{
+        position: absolute;
+        top: 3025px;
+        left: 110px;
+        font-weight: bold;
+    }
+    .plove2{
+        position: absolute;
+        top: 3025px;
+        left: 840px;
+        font-weight: bold;
+    }
+    .plove3{
+        position: absolute;
+        top: 3070px;
+        left: 500px;
+        font-weight: bold;
+        font-size: 15px;
+        color: rgb(92, 107, 122) ;
+    }
+    .img12{
+        height: 400px;
+        width: 360px;
+    position: absolute;
+    top: 3100px;
+    left: 100px;
+    }
+    .img13{
+        height: 400px;
+        width: 360px;
+    position: absolute;
+    top: 3100px;
+    left: 500px;
+    }
+    .img14{
+        height: 400px;
+        width: 360px;
+    position: absolute;
+    top: 3100px;
+    left: 900px;
+    }
+    .hhello{
+    
+    font-weight: bold;
+    font-size: 30px;
+    position: absolute;
+    top: 3550px;
+    left: 500px;
+    color: teal;
+    }
+    .phello1{
+        position: absolute;
+        top: 3550px;
+        left: 100px;
+        font-weight: bold;
+    }
+    .phello2{
+        position: absolute;
+        top: 3550px;
+        left: 890px;
+        font-weight: bold;
+    }
+    .phello{
+        position: absolute;
+        top: 3600px;
+        text-align: center;
+        text-shadow: wheat;
+        padding: 15px 15px;
+        cursor: pointer;
+    }
+
+
+
+
+
+    .divlast{
+        background-color: rgb(209, 243, 243);
+        height: 600px;
+    }
+    .img15{
+        height: 60px;
+        width: 120px;
+        position: absolute;
+        top: 3870px;
+        left: 350px;
+    }
+    .plast1{
+        position: absolute;
+        top: 3890px;
+        left: 10px;
+        font-weight: bold;
+    }
+    .plast2{
+        position: absolute;
+        top: 3930px ;
+        left: 50px;
+        font-size: 46px;
+        color: darkcyan;
+    }
+    .hlast1{
+           font-size: 25px;
+           position: absolute;
+           top: 4030px;
+           left: 50px;
+    }
+    .hlast2{
+        font-size: 25px;
+           position: absolute;
+           top: 4030px;
+           left: 310px;
+    }
+    .hlast3{
+        font-size: 25px;
+           position: absolute;
+           top: 4030px;
+           left: 630px;
+    }
+    .hlast4{
+        font-size: 25px;
+           position: absolute;
+           top: 4030px;
+           left: 830px;
+    }
+    .hlast5{
+        font-size: 25px;
+           position: absolute;
+           top: 4030px;
+           left: 1050px;
+           color: rgb(11, 167, 11);
+    }
+    .plast3{
+        font-size: 17px;
+         position: absolute;
+        top: 4085px;
+        left: 50px;
+    }
+    .plast4{
+        font-size: 17px;
+         position: absolute;
+        top: 4085px;
+        left: 310px;
+    }
+    .plast5{
+        font-size: 17px;
+         position: absolute;
+        top: 4087px;
+        left: 630px;
+    }
+    .plast6{
+        font-size: 17px;
+         position: absolute;
+        top: 4087px;
+        left: 830px;
+    }
+    .plast7{
+        font-size: 17px;
+         position: absolute;
+        top: 4087px;
+        left: 1050px;
+    }
+.img16{
+position: absolute;
+top: 4290px;
+left: 80px;
+}
+.img17{
+    position: absolute;
+    top: 4285px;
+    left: 140px;
+}
+.plast8{
+    position: absolute;
+        top: 4300px ;
+        left: 50px;
+        font-size: 46px;
+        color: darkcyan;
+}
+.plast9{
+    position: absolute;
+        top: 4375px ;
+        left: 60px;
+}
+.icon1{
+position: absolute;
+top: 3890px;
+left: 900px;
+color: white;
+font-size: 30px;
+}
